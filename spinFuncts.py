@@ -5,7 +5,6 @@ from quspin.operators import hamiltonian
 from quspin.basis import spin_basis_general, tensor_basis
 from quspin.tools.measurements import obs_vs_time
 import numpy as np
-from matplotlib import pyplot as plt
 from numpy.linalg import norm
 import cmath
 from scipy import optimize
